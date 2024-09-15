@@ -48,6 +48,7 @@ body {
 - **height: 100vh:** Define a altura da página como 100% da altura da tela, importante para o layout.
 
 *2. Container*
+
 `
 .container {
     text-align: center;
